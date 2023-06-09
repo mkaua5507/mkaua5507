@@ -4,7 +4,6 @@
 - 🔭 Atualmente trabalhando como fullstack
 - 🌱 Estundando Typerscript
 - 👯 Contate-se no email: 83999080631t@gmail.com
-- 🤔 Pronomes ele/dele
 
 
 <div align="center">
